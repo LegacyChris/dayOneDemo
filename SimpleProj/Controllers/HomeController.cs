@@ -9,6 +9,7 @@ using SimpleProj.Models;
 
 namespace SimpleProj.Controllers
 {
+    //Added a comment
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
